@@ -3,5 +3,6 @@
     "description": "A personal blog about technology and programming.",
     "author": "John Doe",
     "email": "john@doe.www",
-    "license": "Public domain"
+    "license": "Public domain",
+    "url": "https://www.johndoe.www"
 }
